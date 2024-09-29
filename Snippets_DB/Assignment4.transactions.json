@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "66f8ee277a2e972af63b5b79"
+  },
+  "bookId": "66f8e89e7a2e972af63b5b59",
+  "userId": "66f8ec667a2e972af63b5b6f",
+  "issueDate": "2024-09-20T00:00:00Z",
+  "returnDate": "2024-09-25T00:00:00Z",
+  "status": "returned",
+  "totalRent": 25
+},
+{
+  "_id": {
+    "$oid": "66f8ee277a2e972af63b5b7a"
+  },
+  "bookId": "66f8e89e7a2e972af63b5b5a",
+  "userId": "66f8ec667a2e972af63b5b70",
+  "issueDate": "2024-09-18T00:00:00Z",
+  "returnDate": null,
+  "status": "borrowed",
+  "totalRent": null
+},
+{
+  "_id": {
+    "$oid": "66f8ee277a2e972af63b5b7b"
+  },
+  "bookId": "66f8e89e7a2e972af63b5b5b",
+  "userId": "66f8ec667a2e972af63b5b71",
+  "issueDate": "2024-09-15T00:00:00Z",
+  "returnDate": "2024-09-20T00:00:00Z",
+  "status": "returned",
+  "totalRent": 50
+},
+{
+  "_id": {
+    "$oid": "66f8ee277a2e972af63b5b7c"
+  },
+  "bookId": "66f8e89e7a2e972af63b5b5c",
+  "userId": "66f8ec667a2e972af63b5b72",
+  "issueDate": "2024-09-23T00:00:00Z",
+  "returnDate": null,
+  "status": "borrowed",
+  "totalRent": null
+}]

@@ -1,0 +1,160 @@
+[{
+  "_id": {
+    "$oid": "66f8e89e7a2e972af63b5b59"
+  },
+  "name": "JavaScript: The Good Parts",
+  "category": "Programming",
+  "rentPerDay": 5
+},
+{
+  "_id": {
+    "$oid": "66f8e89e7a2e972af63b5b5a"
+  },
+  "name": "Python for Data Science",
+  "category": "Data Science",
+  "rentPerDay": 8
+},
+{
+  "_id": {
+    "$oid": "66f8e89e7a2e972af63b5b5b"
+  },
+  "name": "Deep Learning with Python",
+  "category": "AI",
+  "rentPerDay": 10
+},
+{
+  "_id": {
+    "$oid": "66f8e89e7a2e972af63b5b5c"
+  },
+  "name": "MongoDB: The Definitive Guide",
+  "category": "Databases",
+  "rentPerDay": 7
+},
+{
+  "_id": {
+    "$oid": "66f8e89e7a2e972af63b5b5d"
+  },
+  "name": "HTML & CSS: Design and Build Websites",
+  "category": "Frontend",
+  "rentPerDay": 4
+},
+{
+  "_id": {
+    "$oid": "66f8e89e7a2e972af63b5b5e"
+  },
+  "name": "Introduction to Algorithms",
+  "category": "Programming",
+  "rentPerDay": 9
+},
+{
+  "_id": {
+    "$oid": "66f8e89e7a2e972af63b5b5f"
+  },
+  "name": "The Elements of User Experience",
+  "category": "Design",
+  "rentPerDay": 6
+},
+{
+  "_id": {
+    "$oid": "66f8e89e7a2e972af63b5b60"
+  },
+  "name": "AI: A Modern Approach",
+  "category": "AI",
+  "rentPerDay": 12
+},
+{
+  "_id": {
+    "$oid": "66f8e89e7a2e972af63b5b61"
+  },
+  "name": "Designing Data-Intensive Applications",
+  "category": "Databases",
+  "rentPerDay": 10
+},
+{
+  "_id": {
+    "$oid": "66f8e89e7a2e972af63b5b62"
+  },
+  "name": "Effective Java",
+  "category": "Programming",
+  "rentPerDay": 6
+},
+{
+  "_id": {
+    "$oid": "66f8e89e7a2e972af63b5b63"
+  },
+  "name": "The Pragmatic Programmer",
+  "category": "Programming",
+  "rentPerDay": 7
+},
+{
+  "_id": {
+    "$oid": "66f8e89e7a2e972af63b5b64"
+  },
+  "name": "Python Machine Learning",
+  "category": "AI",
+  "rentPerDay": 9
+},
+{
+  "_id": {
+    "$oid": "66f8e89e7a2e972af63b5b65"
+  },
+  "name": "You Don’t Know JS",
+  "category": "Programming",
+  "rentPerDay": 5
+},
+{
+  "_id": {
+    "$oid": "66f8e89e7a2e972af63b5b66"
+  },
+  "name": "Clean Code",
+  "category": "Programming",
+  "rentPerDay": 6
+},
+{
+  "_id": {
+    "$oid": "66f8e89e7a2e972af63b5b67"
+  },
+  "name": "Frontend Masters: Vue.js",
+  "category": "Frontend",
+  "rentPerDay": 7
+},
+{
+  "_id": {
+    "$oid": "66f8e89e7a2e972af63b5b68"
+  },
+  "name": "CSS Secrets",
+  "category": "Frontend",
+  "rentPerDay": 4
+},
+{
+  "_id": {
+    "$oid": "66f8e89e7a2e972af63b5b69"
+  },
+  "name": "The Design of Everyday Things",
+  "category": "Design",
+  "rentPerDay": 6
+},
+{
+  "_id": {
+    "$oid": "66f8e89e7a2e972af63b5b6a"
+  },
+  "name": "Growth Hacking: Market Your Startup",
+  "category": "Marketting",
+  "rentPerDay": 8
+},
+{
+  "_id": {
+    "$oid": "66f8e89e7a2e972af63b5b6b"
+  },
+  "name": "Refactoring: Improving the Design of Existing Code",
+  "category": "Programming",
+  "rentPerDay": 9
+},
+{
+  "_id": {
+    "$oid": "66f8e89e7a2e972af63b5b6c"
+  },
+  "name": "Data Science from Scratch",
+  "category": "Data Science",
+  "rentPerDay": 7
+}]

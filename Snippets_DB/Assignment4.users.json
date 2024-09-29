@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "66f8ec667a2e972af63b5b6f"
+  },
+  "name": "Amit Sharma",
+  "email": "amit.sharma@example.com",
+  "phone": "+91-9876543210"
+},
+{
+  "_id": {
+    "$oid": "66f8ec667a2e972af63b5b70"
+  },
+  "name": "Priya Verma",
+  "email": "priya.verma@example.com",
+  "phone": "+91-8765432109"
+},
+{
+  "_id": {
+    "$oid": "66f8ec667a2e972af63b5b71"
+  },
+  "name": "Rajesh Kumar",
+  "email": "rajesh.kumar@example.com",
+  "phone": "+91-7654321098"
+},
+{
+  "_id": {
+    "$oid": "66f8ec667a2e972af63b5b72"
+  },
+  "name": "Anjali Mehta",
+  "email": "anjali.mehta@example.com",
+  "phone": "+91-6543210987"
+},
+{
+  "_id": {
+    "$oid": "66f8ec667a2e972af63b5b73"
+  },
+  "name": "Sunil Gupta",
+  "email": "sunil.gupta@example.com",
+  "phone": "+91-5432109876"
+}]
